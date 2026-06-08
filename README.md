@@ -1,4 +1,10 @@
 ## Hi there 👋 It's me KEERTHIVASAN V
+<h3 align="center">Java Full Stack Developer | Backend Enthusiast | CSE Student</h3>
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=25&center=true&vCenter=true&width=600&lines=Java+Full+Stack+Developer;Backend+Developer+in+Progress;DSA+Learner;Passionate+About+Building+Projects"/>
+</p>
+
 
 Aspiring Software Engineer 
 <img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
