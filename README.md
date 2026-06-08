@@ -1,18 +1,12 @@
 ## Hi there 👋 It's me KEERTHIVASAN V
-<h3 align="center">Java Full Stack Developer | Backend Enthusiast | CSE Student</h3>
-
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=25&center=true&vCenter=true&width=600&lines=Java+Full+Stack+Developer;Backend+Developer+in+Progress;DSA+Learner;Passionate+About+Building+Projects"/>
-</p>
-
-
-Aspiring Software Engineer 
-<img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
+Aspiring Software Engineer
+<img align="right" width="370" height="290" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif">
 - 🔭 Here's my [Github](https://github.com/KEERTHIVASANCSE)                                                 
-- 🌱 I’m currently learning and Teaching DSA and Integrating AI to my workflow
+- 🌱 I’m currently learning DSA and Competetive Programming to my workflow
 - Engineeing at [<img src="https://tse1.mm.bing.net/th/id/OIP.EId9GlwOmyhdmil59ZT4cAHaHa?rs=1&pid=ImgDetMain&o=7&rm=3" height="24">](https://rmkcet.ac.in/),
 - Currently working with [<img src="https://images-platform.99static.com/FWvZUrBBgg_FQbdXlquX0lf2KSI=/500x500/top/smart/99designs-contests-attachments/28/28801/attachment_28801044" height="24">](https://catalyst.zoho.com/)
 - ⚡ Fun fact: I am Master in C++.
+
 - Social Presence
 <br /> [<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />](https://x.com/) <br /> [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/vasan2006/) <br/> [<img src="https://img.shields.io/badge/instagram-d62976?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/keerthivasan.01/)
 ### I code in
@@ -89,3 +83,12 @@ Aspiring Software Engineer
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=KEERTHIVASANCSE&bg_color=000000&color=ffffff&line=51f565&point=ffffff&area=true&hide_border=true" />
   </a>
 </p>
+
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+</picture>
+
+</div>
